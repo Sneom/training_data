@@ -143,5 +143,118 @@
     "average_time": 15,
     "youtube_link": "https://www.youtube.com/watch?v=ykARTe9_5Ow",
     "difficulty": "Intermediate"
+  },
+  {
+    "exercise_name": "Lat Pulldown",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 55],
+    "equipment_required": ["Lat pulldown machine"],
+    "reps": 12,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=trZQjegcRx0&ab_channel=MuscleandMotion",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_name": "Leg Press",
+    "category": "Lower Body",
+    "health_conditions": [],
+    "age_range": [18, 55],
+    "equipment_required": ["Leg press machine"],
+    "reps": 12,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=QDnCR1eOOPw&ab_channel=MuscleandMotion",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_name": "Seated Row",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 55],
+    "equipment_required": ["Seated row machine"],
+    "reps": 12,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=UCXxvVItLoM&ab_channel=RenaissancePeriodization",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_name": "Leg Curl",
+    "category": "Lower Body",
+    "health_conditions": [],
+    "age_range": [18, 55],
+    "equipment_required": ["Leg curl machine"],
+    "reps": 12,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=Orxowest56U&ab_channel=RenaissancePeriodization",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_name": "Chest Press Machine",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 55],
+    "equipment_required": ["Chest press machine"],
+    "reps": 12,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=NwzUje3z0qY&ab_channel=RenaissancePeriodization",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_name": "Leg Extension",
+    "category": "Lower Body",
+    "health_conditions": [],
+    "age_range": [18, 55],
+    "equipment_required": ["Leg extension machine"],
+    "reps": 12,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=m0FOpMEgero&ab_channel=RenaissancePeriodization",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_name": "Tricep Dip Machine",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 55],
+    "equipment_required": ["Tricep dip machine"],
+    "reps": 12,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=JhX1nBnirNw&ab_channel=LeapFitness",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_name": "Leg Raise",
+    "category": "Core",
+    "health_conditions": [],
+    "age_range": [18, 55],
+    "equipment_required": ["Mat"],
+    "reps": 12,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=Zr-PtqcpeWM&ab_channel=NuffieldHealth",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_name": "Bicep Curl Machine",
+    "category": "Upper Body",
+    "health_conditions": [],
+    "age_range": [18, 55],
+    "equipment_required": ["Bicep curl machine"],
+    "reps": 12,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=Ja6ZlIDONac&ab_channel=RenaissancePeriodization",
+    "difficulty": "Intermediate"
+  },
+  {
+    "exercise_name": "Plank",
+    "category": "Core",
+    "health_conditions": [],
+    "age_range": [18, 55],
+    "equipment_required": ["Mat"],
+    "reps": 12,
+    "average_time": 15,
+    "youtube_link": "https://www.youtube.com/watch?v=pvIjsG5Svck&ab_channel=Children%27sHospitalColorado",
+    "difficulty": "Intermediate"
   }
 ]
+
+  
+
