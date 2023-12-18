@@ -1,0 +1,360 @@
+[
+    {
+        "exercise_name": "Jumping Jacks",
+        "category": "Cardiovascular / Full Body Warm-up ",
+        "health_conditions": [],
+        "age_range": [],
+        "equipment_required": [],
+        "reps": 30,
+        "average_time": 20,
+        "youtube_link": "https://www.youtube.com/watch?v=IB_icWRzi4E&ab_channel=InsiderTech",
+        "difficulty": "Warmup"
+    },
+        {
+          "exercise_name": "Jumping Jacks",
+          "category": "Cardiovascular / Full Body Warm-up",
+          "health_conditions": [],
+          "age_range": [],
+          "equipment_required": [],
+          "reps": 30,
+          "average_time": 20,
+          "youtube_link": "https://www.youtube.com/watch?v=IB_icWRzi4E&ab_channel=InsiderTech",
+          "difficulty": "Warmup"
+        },
+        {
+          "exercise_name": "High Knees",
+          "category": "Cardiovascular / Lower Body Warm-up",
+          "health_conditions": [],
+          "age_range": [],
+          "equipment_required": [],
+          "reps": 20,
+          "average_time": 15,
+          "youtube_link": "https://www.youtube.com/watch?v=UE3iD8IWpyU&ab_channel=FitnessBlender",
+          "difficulty": "Warmup"
+        },
+        {
+          "exercise_name": "Arm Circles",
+          "category": "Upper Body Warm-up",
+          "health_conditions": [],
+          "age_range": [],
+          "equipment_required": [],
+          "reps": {
+            "forward": 20,
+            "backward": 20
+          },
+          "average_time": 15,
+          "youtube_link": "https://www.youtube.com/watch?v=7MGljXp2BLM&ab_channel=Howcast",
+          "difficulty": "Warmup"
+        },
+        {
+          "exercise_name": "Butt Kicks",
+          "category": "Cardiovascular / Lower Body Warm-up",
+          "health_conditions": [],
+          "age_range": [],
+          "equipment_required": [],
+          "reps": 20,
+          "average_time": 15,
+          "youtube_link": "https://www.youtube.com/watch?v=2Ti5KP55zpw&ab_channel=Howcast",
+          "difficulty": "Warmup"
+        },
+        {
+          "exercise_name": "Toe Touches",
+          "category": "Full Body Warm-up",
+          "health_conditions": [],
+          "age_range": [],
+          "equipment_required": [],
+          "reps": 15,
+          "average_time": 20,
+          "youtube_link": "https://www.youtube.com/watch?v=O6w88Rq-NjI&ab_channel=Howcast",
+          "difficulty": "Warmup"
+        },
+        
+            {
+              "exercise_name": "Side Lunges",
+              "category": "Lower Body Warm-up",
+              "health_conditions": [],
+              "age_range": [],
+              "equipment_required": [],
+              "reps": 15,
+              "average_time": 20,
+              "youtube_link": "https://www.youtube.com/watch?v=BQBXcf7R1P8&ab_channel=Fitmediaplus",
+              "difficulty": "Warmup"
+            },
+            {
+              "exercise_name": "Ankle Rolls",
+              "category": "Lower Body Warm-up",
+              "health_conditions": [],
+              "age_range": [],
+              "equipment_required": [],
+              "reps": 10,
+              "average_time": 15,
+              "youtube_link": "https://www.youtube.com/watch?v=L0flXQWAxL8&ab_channel=Howcast",
+              "difficulty": "Warmup"
+            },
+            {
+              "exercise_name": "March in Place",
+              "category": "Cardiovascular / Lower Body Warm-up",
+              "health_conditions": [],
+              "age_range": [],
+              "equipment_required": [],
+              "reps": 30,
+              "average_time": 20,
+              "youtube_link": "https://www.youtube.com/watch?v=HFJhF1f2Gzo&ab_channel=Howcast",
+              "difficulty": "Warmup"
+            },
+            {
+              "exercise_name": "Neck Rolls",
+              "category": "Neck Warm-up",
+              "health_conditions": [],
+              "age_range": [],
+              "equipment_required": [],
+              "reps": 10,
+              "average_time": 15,
+              "youtube_link": "https://www.youtube.com/watch?v=5j7k_NDPr8Q&ab_channel=VickyJustiz",
+              "difficulty": "Warmup"
+            },
+            {
+              "exercise_name": "Calf Raises",
+              "category": "Lower Body Warm-up",
+              "health_conditions": [],
+              "age_range": [],
+              "equipment_required": [],
+              "reps": 20,
+              "average_time": 15,
+              "youtube_link": "https://www.youtube.com/watch?v=NgmQp5Yj_jw&ab_channel=Howcast",
+              "difficulty": "Warmup"
+            },
+            
+                {
+                  "exercise_name": "Hip Circles",
+                  "category": "Lower Body Warm-up",
+                  "health_conditions": [],
+                  "age_range": [],
+                  "equipment_required": [],
+                  "reps": 15,
+                  "average_time": 20,
+                  "youtube_link": "https://www.youtube.com/watch?v=n9YyKINZsw0&ab_channel=ScottHermanFitness",
+                  "difficulty": "Warmup"
+                },
+                {
+                  "exercise_name": "Wrist Circles",
+                  "category": "Upper Body Warm-up",
+                  "health_conditions": [],
+                  "age_range": [],
+                  "equipment_required": [],
+                  "reps": 15,
+                  "average_time": 15,
+                  "youtube_link": "https://www.youtube.com/watch?v=tbb45L_8m5w&ab_channel=SixPackFactory",
+                  "difficulty": "Warmup"
+                },
+                {
+                  "exercise_name": "Side Leg Raises",
+                  "category": "Lower Body Warm-up",
+                  "health_conditions": [],
+                  "age_range": [],
+                  "equipment_required": [],
+                  "reps": 15,
+                  "average_time": 20,
+                  "youtube_link": "https://www.youtube.com/watch?v=TXODu7SG5P0&ab_channel=FitnessBlender",
+                  "difficulty": "Warmup"
+                },
+                {
+                  "exercise_name": "Torso Twists",
+                  "category": "Core Warm-up",
+                  "health_conditions": [],
+                  "age_range": [],
+                  "equipment_required": [],
+                  "reps": 20,
+                  "average_time": 15,
+                  "youtube_link": "https://www.youtube.com/watch?v=5Jl8NfaOSJ8&ab_channel=FitnessBlender",
+                  "difficulty": "Warmup"
+                },
+                {
+                  "exercise_name": "Seated Leg Extensions",
+                  "category": "Lower Body Warm-up",
+                  "health_conditions": [],
+                  "age_range": [],
+                  "equipment_required": [],
+                  "reps": 15,
+                  "average_time": 20,
+                  "youtube_link": "https://www.youtube.com/watch?v=HgX2_F2aaXs&ab_channel=HealthandFitness",
+                  "difficulty": "Warmup"
+                },
+                {
+                  "exercise_name": "Elbow to Knee",
+                  "category": "Core Warm-up",
+                  "health_conditions": [],
+                  "age_range": [],
+                  "equipment_required": [],
+                  "reps": 15,
+                  "average_time": 15,
+                  "youtube_link": "https://www.youtube.com/watch?v=fA2Vp3X0vFU&ab_channel=Howcast",
+                  "difficulty": "Warmup"
+                },
+                {
+                  "exercise_name": "Dynamic Lunges",
+                  "category": "Lower Body Warm-up",
+                  "health_conditions": [],
+                  "age_range": [],
+                  "equipment_required": [],
+                  "reps": 15,
+                  "average_time": 20,
+                  "youtube_link": "https://www.youtube.com/watch?v=_Kdk1dHs8ZM&ab_channel=Howcast",
+                  "difficulty": "Warmup"
+                },
+                {
+                  "exercise_name": "Hip Flexor Stretch",
+                  "category": "Lower Body Warm-up",
+                  "health_conditions": [],
+                  "age_range": [],
+                  "equipment_required": [],
+                  "reps": 30,
+                  "average_time": 20,
+                  "youtube_link": "https://www.youtube.com/watch?v=3pZPvddQFd4&ab_channel=FitnessBlender",
+                  "difficulty": "Warmup"
+                },
+                {
+                  "exercise_name": "Trunk Twists",
+                  "category": "Core Warm-up",
+                  "health_conditions": [],
+                  "age_range": [],
+                  "equipment_required": [],
+                  "reps": 20,
+                  "average_time": 15,
+                  "youtube_link": "https://www.youtube.com/watch?v=SCg4P4_M2fE&ab_channel=Howcast",
+                  "difficulty": "Warmup"
+                },
+                {
+                  "exercise_name": "Knee Hugs",
+                  "category": "Lower Body Warm-up",
+                  "health_conditions": [],
+                  "age_range": [],
+                  "equipment_required": [],
+                  "reps": 20,
+                  "average_time": 15,
+                  "youtube_link": "https://www.youtube.com/watch?v=ST_S_fZwJZk&ab_channel=ScottHermanFitness",
+                  "difficulty": "Warmup"
+                },
+                
+                    {
+                      "exercise_name": "Inchworms",
+                      "category": "Full Body Warm-up",
+                      "health_conditions": [],
+                      "age_range": [],
+                      "equipment_required": [],
+                      "reps": 10,
+                      "average_time": 20,
+                      "youtube_link": "https://www.youtube.com/watch?v=6uL1Bw9Wu-Q&ab_channel=Howcast",
+                      "difficulty": "Warmup"
+                    },
+                    {
+                      "exercise_name": "Jump Rope",
+                      "category": "Cardiovascular / Full Body Warm-up",
+                      "health_conditions": [],
+                      "age_range": [],
+                      "equipment_required": ["Jump Rope"],
+                      "reps": 60,
+                      "average_time": 20,
+                      "youtube_link": "https://www.youtube.com/watch?v=cW9kK2bA7MQ&ab_channel=JumpRopeDudes",
+                      "difficulty": "Warmup"
+                    },
+                    {
+                      "exercise_name": "Plank",
+                      "category": "Core Warm-up",
+                      "health_conditions": [],
+                      "age_range": [],
+                      "equipment_required": [],
+                      "reps": 2,
+                      "average_time": 20,
+                      "youtube_link": "https://www.youtube.com/watch?v=pSHjTRCQxIw&ab_channel=ScottHermanFitness",
+                      "difficulty": "Warmup"
+                    },
+                    {
+                      "exercise_name": "Mountain Climbers",
+                      "category": "Cardiovascular / Core Warm-up",
+                      "health_conditions": [],
+                      "age_range": [],
+                      "equipment_required": [],
+                      "reps": 20,
+                      "average_time": 15,
+                      "youtube_link": "https://www.youtube.com/watch?v=nmwgirgXLYM&ab_channel=FitnessBlender",
+                      "difficulty": "Warmup"
+                    },
+                    {
+                      "exercise_name": "Dynamic Chest Opener",
+                      "category": "Upper Body Warm-up",
+                      "health_conditions": [],
+                      "age_range": [],
+                      "equipment_required": [],
+                      "reps": 12,
+                      "average_time": 15,
+                      "youtube_link": "https://www.youtube.com/watch?v=Bc8Cca1TXGk&ab_channel=FitnessBlender",
+                      "difficulty": "Warmup"
+                    },
+                    {
+                      "exercise_name": "Dynamic Shoulder Stretch",
+                      "category": "Upper Body Warm-up",
+                      "health_conditions": [],
+                      "age_range": [],
+                      "equipment_required": [],
+                      "reps": 12,
+                      "average_time": 15,
+                      "youtube_link": "https://www.youtube.com/watch?v=bYy8gR0JFpI&ab_channel=FitnessBlender",
+                      "difficulty": "Warmup"
+                    },
+                    {
+                      "exercise_name": "Windmills",
+                      "category": "Full Body Warm-up",
+                      "health_conditions": [],
+                      "age_range": [],
+                      "equipment_required": [],
+                      "reps": 30,
+                      "average_time": 20,
+                      "youtube_link": "https://www.youtube.com/watch?v=8oLQ4vSSMNg&ab_channel=FitnessBlender",
+                      "difficulty": "Warmup"
+                    },
+                    {
+                      "exercise_name": "Dynamic Quad Stretch",
+                      "category": "Lower Body Warm-up",
+                      "health_conditions": [],
+                      "age_range": [],
+                      "equipment_required": [],
+                      "reps": 24,
+                      "average_time": 15,
+                      "youtube_link": "https://www.youtube.com/watch?v=nIeb5MDMtwA&ab_channel=Howcast",
+                      "difficulty": "Warmup"
+                    },
+                    {
+                      "exercise_name": "Walking Lunges",
+                      "category": "Lower Body Warm-up",
+                      "health_conditions": [],
+                      "age_range": [],
+                      "equipment_required": [],
+                      "reps": 20 ,
+                      "average_time": 20,
+                      "youtube_link": "https://www.youtube.com/watch?v=aAUj5f9a9p0&ab_channel=FitnessBlender",
+                      "difficulty": "Warmup"
+                    },
+                    {
+                      "exercise_name": "Dynamic Hamstring Stretch",
+                      "category": "Lower Body Warm-up",
+                      "health_conditions": [],
+                      "age_range": [],
+                      "equipment_required": [],
+                      "reps": 24,
+                      "average_time": 15,
+                      "youtube_link": "https://www.youtube.com/watch?v=FSSDLDhbacc&ab_channel=Howcast",
+                      "difficulty": "Warmup"
+                    }
+                  
+                  
+              
+              
+          
+          
+      
+      
+
+
+
+]
