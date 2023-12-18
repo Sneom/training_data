@@ -1,0 +1,512 @@
+[
+    {
+      "food": "Dal (Lentils)",
+      "nutritional_info": {
+        "calories": "100g = 116 kcal",
+        "protein": "7.9g",
+        "fats": "0.4g",
+        "carbohydrates": "20g"
+
+      },
+        "not_by":"Legume-sensitive"
+    
+    },
+    {
+      "food": "Chana Masala (Chickpea Curry)",
+      "nutritional_info": {
+        "calories": "100g = 164 kcal",
+        "protein": "6g",
+        "fats": "2.6g",
+        "carbohydrates": "27g"
+      },
+      
+        "not_by":"Legume-sensitive"
+
+    },
+    {
+      "food": "Chicken Curry",
+      "nutritional_info": {
+        "calories": "100g = 197 kcal",
+        "protein": "18g",
+        "fats": "13g",
+        "carbohydrates": "2.7g"
+      },
+      
+        "not_by":" Poultry-sensitive"
+
+    },
+    {
+      "food": "Baingan Bharta (Roasted Eggplant Curry)",
+      "nutritional_info": {
+        "calories": "100g = 92 kcal",
+        "protein": "2g",
+        "fats": "8g",
+        "carbohydrates": "6.7g"
+      },
+      "not_by":" Nightshade-sensitive"
+
+    },
+    {
+      "food": "Aloo Gobi (Potato and Cauliflower Curry)",
+      "nutritional_info": {
+        "calories": "100g = 77 kcal",
+        "protein": "2.5g",
+        "fats": "0.5g",
+        "carbohydrates": "17g"
+      },
+      "not_by":" Carbohydrate-conscious"
+
+    },
+    {
+      "food": "Paneer Tikka",
+      "nutritional_info": {
+        "calories": "100g = 260 kcal",
+        "protein": "11g",
+        "fats": "22g",
+        "carbohydrates": "6g"
+      },
+      "not_by":" Dairy-sensitive"
+
+    },
+    {
+      "food": "Palak Paneer (Spinach with Cottage Cheese)",
+      "nutritional_info": {
+        "calories": "100g = 176 kcal",
+        "protein": "9g",
+        "fats": "14g",
+        "carbohydrates": "6g"
+      },
+      "not_by":" Dairy-sensitive"
+
+    },
+    {
+      "food": "Biryani (Chicken)",
+      "nutritional_info": {
+        "calories": "100g = 120 kcal",
+        "protein": "8g",
+        "fats": "5g",
+        "carbohydrates": "11g"
+      },
+      "not_by":" Poultry-sensitive"
+
+    },
+    {
+      "food": "Tandoori Roti",
+      "nutritional_info": {
+        "calories": "1 piece = 100 kcal",
+        "protein": "3g",
+        "fats": "1g",
+        "carbohydrates": "20g"
+      },
+      "not_by":"Gluten-sensitive"
+
+    },
+    {
+      "food": "Rajma (Kidney Bean Curry)",
+      "nutritional_info": {
+        "calories": "100g = 127 kcal",
+        "protein": "7.6g",
+        "fats": "0.5g",
+        "carbohydrates": "22g"
+      },
+      "not_by":" Legume-sensitive"
+
+    },
+    {
+      "food": "Dosa with Sambar",
+      "nutritional_info": {
+        "calories": "1 dosa = 133 kcal",
+        "protein": "3g",
+        "fats": "2g",
+        "carbohydrates": "26g"
+      },
+      "not_by":" Legume-sensitive"
+
+    },
+    {
+      "food": "Butter Chicken",
+      "nutritional_info": {
+        "calories": "100g = 305 kcal",
+        "protein": "19g",
+        "fats": "24g",
+        "carbohydrates": "4g"
+      },
+      "not_by":"Poultry-sensitive, Dairy-sensitive"
+
+    },
+    {
+      "food": "Aloo Paratha (Potato Stuffed Bread)",
+      "nutritional_info": {
+        "calories": "1 paratha = 220 kcal",
+        "protein": "5g",
+        "fats": "12g",
+        "carbohydrates": "26g"
+      },
+      "not_by":"Carbohydrate-conscious"
+
+    },
+    {
+      "food": "Samosa",
+      "nutritional_info": {
+        "calories": " 1 piece = 260 kcal",
+        "protein": "5g",
+        "fats": "16g",
+        "carbohydrates": "26g"
+      },
+      "not_by":"Wheat-sensitive, Carbohydrate-conscious"
+
+    },
+    {
+      "food": "Fish Curry",
+      "nutritional_info": {
+        "calories": "100g = 97 kcal",
+        "protein": "13g",
+        "fats": "4g",
+        "carbohydrates": "0g"
+      },
+      "not_by":"Fish-sensitive"
+
+    },
+    {
+
+    
+        "food":"Chicken Breast (Grilled)",
+        "nutritional_info": {
+        "Calories": "100g = 165 kcal",
+        "Protein": "31g",
+        "Fats":" 3.6g",
+        "Carbohydrates":" 0g"
+        },
+        "not_by":"Dairy-sensitive"
+
+
+    },
+      {
+
+        "food":"Salmon (Baked or Grilled)",
+        "nutritional_info": {
+        "Calories": "100g = 206 kcal",
+        "Protein": "25g",
+        "Fats": "13g",
+        "Carbohydrates": "0g"
+      },
+      "not_by":"Rice-sensitive"
+
+    },
+
+      {
+        "food":"Eggs (Boiled)",
+        "nutritional_info": {
+        "Calories": "1 large egg = 68 kcal",
+        "Protein": "6g",
+        "Fats":" 5g",
+        "Carbohydrates":" 0.6g"
+
+      },
+      "not_by":"Legume-sensitive"
+
+    },
+
+      {
+        "food":"Greek Yogurt (Plain, Non-fat)",
+        "nutritional_info": {
+        "Calories": "1 cup = 100 kcal",
+        "Protein": "17g",
+        "Fats":" 0g",
+        "Carbohydrates":" 6g"
+        },
+        "not_by":"Cabbage-sensitive"
+
+    },
+        {
+
+        
+        "food": "Cottage Cheese",
+        "nutritional_info": {
+        "Calories": "100g = 98 kcal",
+        "Protein": "11g",
+        "Fats":" 4g",
+        "Carbohydrates":" 3.4g"
+        },
+        "not_by":"Poultry-sensitive"
+
+    },
+        {
+            "food":"Tofu (Firm)",
+            "nutritional_info": {
+        "Calories": "100g = 144 kcal",
+        "Protein": "15g",
+        "Fats":" 8g",
+        "Carbohydrates":" 3.9g"
+        },
+        "not_by":"Dairy-sensitive"
+
+    },
+        {
+            "food":"Turkey Breast (Roasted)",
+        "nutritional_info": {
+        "Calories": "100g = 135 kcal",
+        "Protein": "30g",
+        "Fats":" 1g",
+        "Carbohydrates":" 0g"
+
+        },
+        "not_by":"Dairy-sensitive"
+
+    },
+        {
+        "food":"Quinoa (Cooked)",
+        "nutritional_info": {
+        "Calories": "1cup = 222 kcal",
+        "Protein": "8g",
+        "Fats":" 4g",
+        "Carbohydrates":" 39g"
+        },
+        "not_by":"Rice-sensitive"
+
+    },
+        {
+        "food":"Lean Beef (Grilled)",
+        "nutritional_info": {
+        "Calories": "100g = 250 kcal",
+        "Protein": "26g",
+        "Fats":" 17g",
+        "Carbohydrates":" 0g"
+        },
+        "not_by":"Vegetable-sensitive"
+
+    },
+        {
+        "food":"Chickpeas",
+        "nutritional_info": {
+        "Calories": "1cup  = 269 kcal",
+        "Protein": "15g",
+        "Fats":" 4g",
+        "Carbohydrates":" 45g"
+
+        },
+        "not_by":"Gluten-sensitive"
+
+    },
+        
+    {
+        "food":"Almonds",
+        "nutritional_info": {
+        "Calories": "1ounce = 160 kcal",
+        "Protein": "6g",
+        "Fats":" 14g",
+        "Carbohydrates":" 6g"
+    },
+    "not_by":"Nut-sensitive"
+
+},
+    {
+        "food":"Milk (Whole)",
+        "nutritional_info": {
+        "Calories": "1cup = 149 kcal",
+        "Protein": "8g",
+        "Fats":" 8g",
+        "Carbohydrates":" 12g"
+    },
+    "not_by":"Lactose-sensitive"
+
+},
+    {
+        "food":"Peanut Butter (Smooth)",
+        "nutritional_info": {
+        "Calories": "2tablespoons = 188 kcal",
+        "Protein": "8g",
+        "Fats":" 16g",
+        "Carbohydrates":" 6g"
+    },
+    "not_by":"Nut-sensitive"
+
+},
+    {
+
+    
+        "food":"Black Beans",
+        "nutritional_info": {
+        "Calories": "1cup  = 227 kcal",
+        "Protein": "15g",
+        "Fats":" 1g",
+        "Carbohydrates":" 41g"
+    },
+    "not_by":"Legume-sensitive"
+
+},
+    {
+        "food":"Hemp Seeds",
+        "nutritional_info": {
+        "Calories": "3tablespoons = 166 kcal",
+        "Protein": "10g",
+        "Fats":" 14g",
+        "Carbohydrates":" 3g"
+    },
+    "not_by":"Seed-sensitive"
+
+},
+    {
+        "food":"Spinach (Boiled)",
+        "nutritional_info": {
+        "Calories": "1cup = 41 kcal",
+        "Protein": "5g",
+        "Fats":" 1g",
+        "Carbohydrates":" 6g"
+    },
+    "not_by":""
+
+},
+    {
+        "food":"Pork Chops (Grilled)",
+        "nutritional_info": {
+        "Calories": "100g = 143 kcal",
+        "Protein": "21g",
+        "Fats":" 6g",
+        "Carbohydrates":" 0g"
+    },
+    "not_by":""
+
+},
+    {
+
+    
+        "food":"Canned Tuna (in water)",
+        "nutritional_info": {
+        "Calories": "1can  = 179 kcal",
+        "Protein": "39g",
+        "Fats":" 1g",
+        "Carbohydrates":" 0g"
+    },
+    "not_by":"Fish-sensitive"
+
+},
+    {
+
+        "food":"Cauliflower",
+        "nutritional_info": {
+        "Calories": "1cup  = 25 kcal",
+        "Protein": "2g",
+        "Fats":" 0g",
+        "Carbohydrates":" 5g"
+    },
+    "not_by":""
+
+},
+    {
+
+    
+        "food":"Oats (Rolled, Cooked)",
+        "nutritional_info": {
+        "Calories": "1cup = 154 kcal",
+        "Protein": "5g",
+        "Fats":" 3g",
+        "Carbohydrates":" 28g"
+    },
+    "not_by":"Gluten-sensitive"
+    
+
+},
+    {
+
+        "food":"Sunflower Seeds",
+        "nutritional_info": {
+        "Calories": "1ounce = 160 kcal",
+        "Protein": "6g",
+        "Fats":" 14g",
+        "Carbohydrates":" 6g"
+    },
+    "not_by":"Seed-sensitive"
+
+},
+    {
+        "food":"Chicken Liver (Pan-Fried)",
+        "nutritional_info": {
+        "Calories": "100g = 171 kcal",
+        "Protein": "26g",
+        "Fats":" 7g",
+        "Carbohydrates": "0g"
+    },
+    "not_by":""
+
+},
+    {
+
+        "food":"Edamame",
+        "nutritional_info": {
+        "Calories": "1cup  = 188 kcal",
+        "Protein": "18g",
+        "Fats":" 8g",
+        "Carbohydrates": "13g"
+    },
+    "not_by":"Soy-sensitive"
+
+},
+    {
+        "food":"Broccoli",
+        "nutritional_info": {
+        "Calories": "1cup  = 55 kcal",
+        "Protein": "3.7g",
+        "Fats":" 0.6g",
+        "Carbohydrates": "11g"
+    },
+    "not_by":""
+
+},
+    {
+        "food":"Whey Protein Powder",
+        "nutritional_info": {
+        "Calories": "1scoop = 120 kcal",
+        "Protein": "24g",
+        "Fats":" 1.5g",
+        "Carbohydrates": "3g"
+    },
+    "not_by":"Dairy-sensitive"
+
+},
+    {
+        "food":"Lentil Soup",
+        "nutritional_info": {
+        "Calories": "1cup = 230 kcal",
+        "Protein": "18g",
+        "Fats":" 1g",
+        "Carbohydrates": "40g"
+    },
+    "not_by":"Legume-sensitive"
+
+},
+    {
+        "food":"Yogurt (Greek, Non-fat)",
+        "nutritional_info": {
+        "Calories": "1cup = 100 kcal",
+        "Protein": "15g",
+        "Fats":" 0g",
+        "Carbohydrates": "9g"
+    },
+    "not_by":"Dairy-sensitive"
+
+},
+    {
+        "food":"Pumpkin Seeds (Pepitas)",
+        "nutritional_info": {
+        "Calories": "1ounce = 151 kcal",
+        "Protein": "7g",
+        "Fats":" 13g",
+        "Carbohydrates": "5g"
+        },
+        "not_by":"Seed-sensitive"
+
+    },
+    {
+        "Food":"Beef Jerky",
+        "nutritional_info": {
+        "Calories": "1ounce = 116 kcal",
+        "Protein": "9g",
+        "Fats":" 7g",
+        "Carbohydrates": "3g"
+        },
+        "not_by":""
+        
+    }
+    
+]
