@@ -7,20 +7,9 @@
         "equipment_required": [],
         "reps": 30,
         "average_time": 20,
-        "youtube_link": "https://www.youtube.com/watch?v=IB_icWRzi4E&ab_channel=InsiderTech",
+        "youtube_link": "https://www.youtube.com/watch?v=iSSAk4XCsRA",
         "difficulty": "Warmup"
     },
-        {
-          "exercise_name": "Jumping Jacks",
-          "category": "Cardiovascular / Full Body Warm-up",
-          "health_conditions": [],
-          "age_range": [],
-          "equipment_required": [],
-          "reps": 30,
-          "average_time": 20,
-          "youtube_link": "https://www.youtube.com/watch?v=IB_icWRzi4E&ab_channel=InsiderTech",
-          "difficulty": "Warmup"
-        },
         {
           "exercise_name": "High Knees",
           "category": "Cardiovascular / Lower Body Warm-up",
@@ -29,7 +18,7 @@
           "equipment_required": [],
           "reps": 20,
           "average_time": 15,
-          "youtube_link": "https://www.youtube.com/watch?v=UE3iD8IWpyU&ab_channel=FitnessBlender",
+          "youtube_link": "https://www.youtube.com/watch?v=ZNDHivUg7vA",
           "difficulty": "Warmup"
         },
         {
@@ -42,10 +31,6 @@
             "forward": 20,
             "backward": 20
           },
-          "average_time": 15,
-          "youtube_link": "https://www.youtube.com/watch?v=7MGljXp2BLM&ab_channel=Howcast",
-          "difficulty": "Warmup"
-        },
         {
           "exercise_name": "Butt Kicks",
           "category": "Cardiovascular / Lower Body Warm-up",
@@ -54,7 +39,7 @@
           "equipment_required": [],
           "reps": 20,
           "average_time": 15,
-          "youtube_link": "https://www.youtube.com/watch?v=2Ti5KP55zpw&ab_channel=Howcast",
+          "youtube_link": "https://www.youtube.com/watch?v=-dtvAxibgYQ",
           "difficulty": "Warmup"
         },
         {
@@ -65,7 +50,7 @@
           "equipment_required": [],
           "reps": 15,
           "average_time": 20,
-          "youtube_link": "https://www.youtube.com/watch?v=O6w88Rq-NjI&ab_channel=Howcast",
+          "youtube_link": "https://www.youtube.com/watch?v=9iEI95-eZWk",
           "difficulty": "Warmup"
         },
         
@@ -77,7 +62,7 @@
               "equipment_required": [],
               "reps": 15,
               "average_time": 20,
-              "youtube_link": "https://www.youtube.com/watch?v=BQBXcf7R1P8&ab_channel=Fitmediaplus",
+              "youtube_link": "https://www.youtube.com/watch?v=zejTuBTEkfY",
               "difficulty": "Warmup"
             },
             {
@@ -88,7 +73,7 @@
               "equipment_required": [],
               "reps": 10,
               "average_time": 15,
-              "youtube_link": "https://www.youtube.com/watch?v=L0flXQWAxL8&ab_channel=Howcast",
+              "youtube_link": "https://www.youtube.com/watch?v=dV5opNYJvQE",
               "difficulty": "Warmup"
             },
             {
@@ -99,7 +84,7 @@
               "equipment_required": [],
               "reps": 30,
               "average_time": 20,
-              "youtube_link": "https://www.youtube.com/watch?v=HFJhF1f2Gzo&ab_channel=Howcast",
+              "youtube_link": "https://www.youtube.com/watch?v=9wl_AiNhYP0",
               "difficulty": "Warmup"
             },
             {
@@ -110,7 +95,7 @@
               "equipment_required": [],
               "reps": 10,
               "average_time": 15,
-              "youtube_link": "https://www.youtube.com/watch?v=5j7k_NDPr8Q&ab_channel=VickyJustiz",
+              "youtube_link": "https://www.youtube.com/watch?v=2M80Mn0VBPw",
               "difficulty": "Warmup"
             },
             {
@@ -121,7 +106,7 @@
               "equipment_required": [],
               "reps": 20,
               "average_time": 15,
-              "youtube_link": "https://www.youtube.com/watch?v=NgmQp5Yj_jw&ab_channel=Howcast",
+              "youtube_link": "https://www.youtube.com/watch?v=eMTy3qylqnE",
               "difficulty": "Warmup"
             },
             
@@ -133,7 +118,7 @@
                   "equipment_required": [],
                   "reps": 15,
                   "average_time": 20,
-                  "youtube_link": "https://www.youtube.com/watch?v=n9YyKINZsw0&ab_channel=ScottHermanFitness",
+                  "youtube_link": "https://www.youtube.com/watch?v=qkrJXGVj_OQ",
                   "difficulty": "Warmup"
                 },
                 {
@@ -144,7 +129,7 @@
                   "equipment_required": [],
                   "reps": 15,
                   "average_time": 15,
-                  "youtube_link": "https://www.youtube.com/watch?v=tbb45L_8m5w&ab_channel=SixPackFactory",
+                  "youtube_link": "https://www.youtube.com/watch?v=wRSk1_C6yOM",
                   "difficulty": "Warmup"
                 },
                 {
@@ -155,7 +140,7 @@
                   "equipment_required": [],
                   "reps": 15,
                   "average_time": 20,
-                  "youtube_link": "https://www.youtube.com/watch?v=TXODu7SG5P0&ab_channel=FitnessBlender",
+                  "youtube_link": "https://www.youtube.com/watch?v=l_U2uoePtS4",
                   "difficulty": "Warmup"
                 },
                 {
@@ -166,7 +151,7 @@
                   "equipment_required": [],
                   "reps": 20,
                   "average_time": 15,
-                  "youtube_link": "https://www.youtube.com/watch?v=5Jl8NfaOSJ8&ab_channel=FitnessBlender",
+                  "youtube_link": "https://www.youtube.com/watch?v=f4Qah0bQTIo",
                   "difficulty": "Warmup"
                 },
                 {
@@ -177,7 +162,7 @@
                   "equipment_required": [],
                   "reps": 15,
                   "average_time": 20,
-                  "youtube_link": "https://www.youtube.com/watch?v=HgX2_F2aaXs&ab_channel=HealthandFitness",
+                  "youtube_link": "https://www.youtube.com/watch?v=EAymwps5x0s",
                   "difficulty": "Warmup"
                 },
                 {
@@ -188,7 +173,7 @@
                   "equipment_required": [],
                   "reps": 15,
                   "average_time": 15,
-                  "youtube_link": "https://www.youtube.com/watch?v=fA2Vp3X0vFU&ab_channel=Howcast",
+                  "youtube_link": "https://www.youtube.com/watch?v=z1fwSujYhX8",
                   "difficulty": "Warmup"
                 },
                 {
@@ -199,7 +184,7 @@
                   "equipment_required": [],
                   "reps": 15,
                   "average_time": 20,
-                  "youtube_link": "https://www.youtube.com/watch?v=_Kdk1dHs8ZM&ab_channel=Howcast",
+                  "youtube_link": "https://www.youtube.com/watch?v=S4PGl2mbLGk",
                   "difficulty": "Warmup"
                 },
                 {
@@ -210,7 +195,7 @@
                   "equipment_required": [],
                   "reps": 30,
                   "average_time": 20,
-                  "youtube_link": "https://www.youtube.com/watch?v=3pZPvddQFd4&ab_channel=FitnessBlender",
+                  "youtube_link": "https://www.youtube.com/watch?v=DXuStgWuJV8",
                   "difficulty": "Warmup"
                 },
                 {
@@ -221,7 +206,7 @@
                   "equipment_required": [],
                   "reps": 20,
                   "average_time": 15,
-                  "youtube_link": "https://www.youtube.com/watch?v=SCg4P4_M2fE&ab_channel=Howcast",
+                  "youtube_link": "https://www.youtube.com/watch?v=J1g0xbBM_vU",
                   "difficulty": "Warmup"
                 },
                 {
@@ -232,7 +217,7 @@
                   "equipment_required": [],
                   "reps": 20,
                   "average_time": 15,
-                  "youtube_link": "https://www.youtube.com/watch?v=ST_S_fZwJZk&ab_channel=ScottHermanFitness",
+                  "youtube_link": "https://www.youtube.com/watch?v=eP0DkztNhcs",
                   "difficulty": "Warmup"
                 },
                 
@@ -244,7 +229,7 @@
                       "equipment_required": [],
                       "reps": 10,
                       "average_time": 20,
-                      "youtube_link": "https://www.youtube.com/watch?v=6uL1Bw9Wu-Q&ab_channel=Howcast",
+                      "youtube_link": "https://www.youtube.com/watch?v=H_YsTBL4Q-Q",
                       "difficulty": "Warmup"
                     },
                     {
@@ -255,18 +240,7 @@
                       "equipment_required": ["Jump Rope"],
                       "reps": 60,
                       "average_time": 20,
-                      "youtube_link": "https://www.youtube.com/watch?v=cW9kK2bA7MQ&ab_channel=JumpRopeDudes",
-                      "difficulty": "Warmup"
-                    },
-                    {
-                      "exercise_name": "Plank",
-                      "category": "Core Warm-up",
-                      "health_conditions": [],
-                      "age_range": [],
-                      "equipment_required": [],
-                      "reps": 2,
-                      "average_time": 20,
-                      "youtube_link": "https://www.youtube.com/watch?v=pSHjTRCQxIw&ab_channel=ScottHermanFitness",
+                      "youtube_link": "https://www.youtube.com/watch?v=aFoektJK9dU",
                       "difficulty": "Warmup"
                     },
                     {
@@ -277,7 +251,7 @@
                       "equipment_required": [],
                       "reps": 20,
                       "average_time": 15,
-                      "youtube_link": "https://www.youtube.com/watch?v=nmwgirgXLYM&ab_channel=FitnessBlender",
+                      "youtube_link": "https://www.youtube.com/watch?v=nmwgirgXLYM",
                       "difficulty": "Warmup"
                     },
                     {
@@ -288,7 +262,7 @@
                       "equipment_required": [],
                       "reps": 12,
                       "average_time": 15,
-                      "youtube_link": "https://www.youtube.com/watch?v=Bc8Cca1TXGk&ab_channel=FitnessBlender",
+                      "youtube_link": "https://www.youtube.com/watch?v=urICkMgMrjk",
                       "difficulty": "Warmup"
                     },
                     {
@@ -299,7 +273,7 @@
                       "equipment_required": [],
                       "reps": 12,
                       "average_time": 15,
-                      "youtube_link": "https://www.youtube.com/watch?v=bYy8gR0JFpI&ab_channel=FitnessBlender",
+                      "youtube_link": "https://www.youtube.com/watch?v=SaSiNPt3xo8",
                       "difficulty": "Warmup"
                     },
                     {
@@ -310,7 +284,7 @@
                       "equipment_required": [],
                       "reps": 30,
                       "average_time": 20,
-                      "youtube_link": "https://www.youtube.com/watch?v=8oLQ4vSSMNg&ab_channel=FitnessBlender",
+                      "youtube_link": "https://www.youtube.com/watch?v=5i79T19L2gE",
                       "difficulty": "Warmup"
                     },
                     {
@@ -321,7 +295,7 @@
                       "equipment_required": [],
                       "reps": 24,
                       "average_time": 15,
-                      "youtube_link": "https://www.youtube.com/watch?v=nIeb5MDMtwA&ab_channel=Howcast",
+                      "youtube_link": "https://www.youtube.com/watch?v=2wGlt00twuI",
                       "difficulty": "Warmup"
                     },
                     {
@@ -332,7 +306,7 @@
                       "equipment_required": [],
                       "reps": 20 ,
                       "average_time": 20,
-                      "youtube_link": "https://www.youtube.com/watch?v=aAUj5f9a9p0&ab_channel=FitnessBlender",
+                      "youtube_link": "https://www.youtube.com/watch?v=L8fvypPrzzs",
                       "difficulty": "Warmup"
                     },
                     {
@@ -343,7 +317,7 @@
                       "equipment_required": [],
                       "reps": 24,
                       "average_time": 15,
-                      "youtube_link": "https://www.youtube.com/watch?v=FSSDLDhbacc&ab_channel=Howcast",
+                      "youtube_link": "https://www.youtube.com/watch?v=HtgnxSG9fis",
                       "difficulty": "Warmup"
                     }
                   
