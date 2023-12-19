@@ -1,0 +1,154 @@
+{
+"food_items": [
+    {
+    "item": "1 slice of bread",
+    "calories": "70 cal",
+    "group": "Cereals",
+    "quantity": 30
+    },
+    {
+    "item": "1 medium chapatti ",
+    "calories": "60 cal",
+    "group": "Cereals",
+    "quantity": 30
+    },
+    {
+    "item": "1 small parantha",
+    "calories": "120 cal",
+    "group": "Cereals",
+    "quantity": 30
+    },
+    {
+    "item": "1/4 cup cooked rice (60 g)",
+    "calories": "50 cal",
+    "group": "Cereals",
+    "quantity": 60
+    },
+    {
+    "item": "2 small idlis (30 g)",
+    "calories": "60 cal",
+    "group": "Cereals",
+    "quantity": 30
+    },
+    {
+    "item": "4 biscuits (30 g)",
+    "calories": "160 cal",
+    "group": "Cereals",
+    "quantity": 30
+    },
+    {
+    "item": "1/4 cup cooked upma (60 g)",
+    "calories": "90 cal",
+    "group": "Cereals",
+    "quantity": 60
+    },
+    {
+    "item": "1/4 cup cooked poha (60 g)",
+    "calories": "75 cal",
+    "group": "Cereals",
+    "quantity": 60
+    },
+    {
+    "item": "1/4 cup of cooked dal (90 g)",
+    "calories": "80 cal",
+    "group": "Pulses",
+    "quantity": 90
+    },
+    {
+    "item": "1 besan cheela (30 g)",
+    "calories": "120 cal",
+    "group": "Pulses",
+    "quantity":30
+    },
+    {
+    "item": "2 small besan ladoos (30 g)",
+    "calories": "120 cal",
+    "group": "Pulses",
+    "quantity": 30
+    },
+    {
+    "item": "1 glass of plain milk (250 ml)",
+    "calories": "150 cal",
+    "group": "Milk and milk products",
+    "quantity": 250
+    },
+    {
+    "item": "2 glasses of buttermilk (500 ml)",
+    "calories": "100 cal",
+    "group": "Milk and milk products",
+    "quantity": 500
+    },
+    {
+    "item": "1 cup of curd (150 g)",
+    "calories": "120 cal",
+    "group": "Milk and milk products",
+    "quantity": 150
+    },
+    {
+    "item": "4 big slices of paneer (40 g of paneer)",
+    "calories": "160 cal",
+    "group": "Milk and milk products",
+    "quantity":40
+    },
+    {
+    "item": "Mango/guava/pear/orange (100 g)",
+    "calories": "60 cal",
+    "group": "Fruits ",
+    "quantity":100
+    },
+    {
+    "item": "Banana (50 g)",
+    "calories": "50 cal",
+    "group": "Fruits ",
+    "quantity":50
+    },
+    {
+    "item": "Green leafy vegetables (spinach, bathua, amaranth, mustard) (50 g)",
+    "calories": "10 cal",
+    "group": "Vegetables",
+    "quantity":50
+    },
+    {
+    "item": "Other vegetables (cauliflower, bhindi, peas, brinjal, etc.)(100 g)",
+    "calories": "40 cal",
+    "group": "Vegetables",
+    "quantity":100
+    },
+    {
+    "item": "Roots and tubers (potato, carrot, radish(100 g)",
+    "calories": "70 cal",
+    "group": "Vegetables",
+    "quantity": 100
+    },
+    {
+    "item": "Butter - 1 tsp butter (5 g)",
+    "calories": "35 cal kcal",
+    "group":"Fats and oil",
+    "quantity":5
+    },
+    {
+    "item": "Ghee - 1 tsp (5 ml)",
+    "calories": "45 cal",
+    "group": "Fats and oil",
+    "quantity":5
+    },
+    {
+    "item": "Sugar - 1 tsp (5 g)",
+    "calories": "20 cal",
+    "group": "Sugar",
+    "quantity":5
+    },
+    {
+    "item": "Jaggery - 1 tsp (5 g)",
+    "calories": "20 cal",
+    "group": "Sugar",
+    "quantity":5
+    },
+    {
+    "item": "Honey - 1 tsp (5 ml)",
+    "calories": "15 cal",
+    "group": "Sugar",
+    "quantity":5
+    }
+]
+}
